@@ -1,1 +1,1 @@
-# Javascript-concepts-practise-  Learning  concepts ofjavascript programming language 
+  Learning  concepts of javascript programming language 
